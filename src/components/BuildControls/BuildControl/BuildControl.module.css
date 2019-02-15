@@ -1,0 +1,22 @@
+.BuildControl {
+  width: 100%;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: space-between;
+  padding: 3px;
+  margin: 0;
+}
+
+.IngrLabel {
+  width: 50%;
+  display: inline-block;
+  text-transform: capitalize;
+}
+
+.Less {
+  display: block;
+}
+
+.More {
+  display: block;
+}

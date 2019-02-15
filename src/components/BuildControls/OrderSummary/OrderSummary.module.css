@@ -1,0 +1,11 @@
+.OrderSummary {
+  padding: 3px;
+  margin: 0;
+  box-sizing: border-box;
+  text-align: center;
+}
+
+.OrderSummary ul li {
+  display: flex;
+  justify-content: space-between;
+}

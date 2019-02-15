@@ -1,0 +1,32 @@
+.Button {
+  background-color: white;
+  color: #633200;
+  outline: none;
+  border: solid 1px;
+  margin: auto;
+  padding: 2px 5px;
+}
+
+.Button:active:enabled,
+.Button:hover:enabled {
+  background-color: #ffd6ad;
+}
+
+.Button:disabled {
+  color: #ffd6ad;
+}
+
+
+.Purchase {
+  background-color: #633200;
+  color: white;
+}
+
+.Purchase:hover:enabled,
+.Purchase:active:enabled {
+  background-color: #7f4a15;
+}
+
+.Purchase:disabled {
+  color: #77551d;
+}
